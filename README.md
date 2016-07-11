@@ -14,7 +14,7 @@ RTF是Ready To Fly的缩写，在航模里面，表示无需自己组装零件�
 
 2.下载
 
-<pre>git clone git://github.com/medcl/elasticsearch-rtf.git -b master --depth 1</pre>
+<pre>git clone git://github.com/chenwenning/elasticsearch-rtf.git -b master --depth 1</pre>
 
 
 3.运行
